@@ -1,0 +1,11 @@
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\bin\Debug\Clases Instanciables.dll
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\bin\Debug\Clases Abstractas.dll
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\bin\Debug\Clases Instanciables.pdb
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\bin\Debug\Clases Abstractas.pdb
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Archivos\obj\Debug\Archivos.pdb

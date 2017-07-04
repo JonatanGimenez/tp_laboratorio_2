@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Administrador\Desktop\TP3\Jonatan.Gimenez.2A.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

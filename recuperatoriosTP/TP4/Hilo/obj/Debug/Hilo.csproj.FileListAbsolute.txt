@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\TP4\TP4\Hilo\bin\Debug\Hilo.dll
+C:\Users\Administrador\Desktop\TP4\TP4\Hilo\bin\Debug\Hilo.pdb
+C:\Users\Administrador\Desktop\TP4\TP4\Hilo\obj\Debug\Hilo.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TP4\TP4\Hilo\obj\Debug\Hilo.dll
+C:\Users\Administrador\Desktop\TP4\TP4\Hilo\obj\Debug\Hilo.pdb

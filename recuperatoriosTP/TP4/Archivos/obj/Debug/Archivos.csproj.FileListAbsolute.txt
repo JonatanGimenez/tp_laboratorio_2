@@ -1,0 +1,5 @@
+C:\Users\Administrador\Desktop\TP4\TP4\Archivos\bin\Debug\Archivos.dll
+C:\Users\Administrador\Desktop\TP4\TP4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Administrador\Desktop\TP4\TP4\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\TP4\TP4\Archivos\obj\Debug\Archivos.dll
+C:\Users\Administrador\Desktop\TP4\TP4\Archivos\obj\Debug\Archivos.pdb
